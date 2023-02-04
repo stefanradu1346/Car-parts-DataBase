@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\bin\Debug\ProjectDB.exe.config
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\bin\Debug\ProjectDB.exe
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\bin\Debug\ProjectDB.pdb
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.Form1.resources
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.exe
+C:\Users\Admin\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.pdb
